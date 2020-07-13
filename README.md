@@ -8,7 +8,7 @@
 
 
 ## About Me:
-<h4>I look forward to absorb knowledge, gain experience, collaborate and build amazing products for the world🌍!</h4>
+<h4>I'm a keen learner and waanr to gain experience, collaborate and build amazing products for the world🌍!</h4>
 
 
 
