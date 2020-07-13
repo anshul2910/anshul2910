@@ -12,4 +12,4 @@
 
 ---
 
-⭐️ From [@ayushkumar-25](https://github.com/anshul2910)
+⭐️ From [@anshul2910](https://github.com/anshul2910)
