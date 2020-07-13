@@ -6,7 +6,7 @@
 
 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshul2910&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anshul2910.anshul2910)
 
