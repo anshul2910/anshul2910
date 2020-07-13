@@ -7,5 +7,5 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anshul2910.anshul2910)
 
-![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshul2910&hide=["issues"]&show_icons=true)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=anshul2910&show_icons=true">
 
